@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://atul-kumar-portfolio-app.vercel.app/](https://atul-kumar-portfolio-app.vercel.app/)
+- 👨‍💻 All of my projects are available at [My PortFolio](https://atul-kumar-portfolio-app.vercel.app/)
 
 - 📫 How to reach me **atulshahi2003@gmail.com**
 
@@ -29,14 +29,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="atul-kumar-shahi" />
 </p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-shahi&theme=dark" alt="atul-kumar-shahi" /></p>
 
-
-<div style="padding: 20px 0;">
-  <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=atul-kumar-shahi&theme=dark" alt="atul-kumar-shahi" />
-    </a>
-  </p>
-</div>
