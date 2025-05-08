@@ -64,11 +64,11 @@
 
 
 <div align="center">
-  <div style="display: inline-block; width: 49%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-kumar-shahi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <div style="display: inline-block; width: 90%;">
+    <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-kumar-shahi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
   </div>
-  </div>
+</div>
   
 
 
