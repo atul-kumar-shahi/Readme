@@ -32,9 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-shahi&theme=dark" alt="atul-kumar-shahi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-shahi&theme=dark" alt="atul-kumar-shahi" /></p>
-
-
 
 <div style="padding: 20px 0;">
   <p align="left">
