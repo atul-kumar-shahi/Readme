@@ -5,8 +5,13 @@
 </div>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atul-kumar-shahi" alt="atul-kumar-shahi" /></a> </p>
+<div style="padding: 20px 0;">
+  <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=atul-kumar-shahi" alt="atul-kumar-shahi" />
+    </a>
+  </p>
+</div>
 
 - 👨‍💻 All of my projects are available at [https://atul-kumar-portfolio-app.vercel.app/](https://atul-kumar-portfolio-app.vercel.app/)
 
