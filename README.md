@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19bA6swa9yUYHwudjnwuNRkC7PHutT_eG/view?usp=sharing)4
 
-- - LinkedIn at [Atul Kumar](https://www.linkedin.com/in/atul-kumar-a5a378238/)
+-  LinkedIn at [Atul Kumar](https://www.linkedin.com/in/atul-kumar-a5a378238/)
 
 
 
@@ -28,6 +28,12 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="atul-kumar-shahi" />
 </p>
+
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-shahi&theme=black-ice" alt="atul-kumar-shahi" />
+</p>
+
 
 
 
