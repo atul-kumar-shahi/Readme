@@ -35,7 +35,7 @@
 <div style="padding: 20px 0;">
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=atul-kumar-shahi" alt="atul-kumar-shahi" />
+      <img src="https://github-profile-trophy.vercel.app/?username=atul-kumar-shahi&theme=dark" alt="atul-kumar-shahi" />
     </a>
   </p>
 </div>
