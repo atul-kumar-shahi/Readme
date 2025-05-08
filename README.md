@@ -33,6 +33,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-shahi&theme=dark" alt="atul-kumar-shahi" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-kumar-shahi&show_icons=true&locale=en&layout=compact" alt="atul-kumar-shah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en" alt="atul-kumar-shah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-shahi&" alt="atul-kumar-shahi" /></p>
 
 
 
