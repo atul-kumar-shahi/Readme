@@ -63,16 +63,11 @@
 
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-kumar-shahi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-kumar-shahi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
 
 
 <br>
@@ -80,8 +75,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-shahi&theme=dark" alt="GitHub Streak"/>
 </p>
-
-<br><br>
 
 <!-- Trophy Section -->
 
