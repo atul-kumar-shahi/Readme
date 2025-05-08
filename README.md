@@ -18,7 +18,6 @@
 
 - 💼 LinkedIn at [Atul Kumar](https://www.linkedin.com/in/atul-kumar-a5a378238/)
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -62,11 +61,13 @@
 
 <!-- GitHub Stats Section -->
 
-<p align="center">
+
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-kumar-shahi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
 </p>
 
