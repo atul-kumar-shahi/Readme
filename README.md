@@ -1,7 +1,6 @@
 
 ![Template](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <div align="center">
   <h1>Hi! There <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF" /> I am Atul Kumar Welcome!</h1>
 </div>
