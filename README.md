@@ -63,11 +63,11 @@
 
 
 
-<div align="center">
-  <div style="display: inline-block; margin-right: 10px;">
+<div style="display: inline-block;" align="center">
+  <div style="margin-right: 10px;">
     <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-kumar-shahi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
   </div>
-  <div style="display: inline-block;">
+  <div>
     <img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
   </div>
 </div>
