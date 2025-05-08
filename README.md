@@ -63,14 +63,12 @@
 
 
 
-<div style="display: inline-block;" align="center">
-  <div style="margin-right: 10px;">
-    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-kumar-shahi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  </div>
-  <div>
-    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-kumar-shahi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="400" height="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=atul-kumar-shahi&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="400" height="200" />
+</p>
+
   
 
 
