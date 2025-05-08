@@ -30,9 +30,7 @@
 </p>
 
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-shahi&theme=black-ice" alt="atul-kumar-shahi" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-shahi&theme=dark" alt="atul-kumar-shahi" /></p>
 
 
 
