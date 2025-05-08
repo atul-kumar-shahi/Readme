@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **atulshahi2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19bA6swa9yUYHwudjnwuNRkC7PHutT_eG/view?usp=sharing](https://drive.google.com/file/d/19bA6swa9yUYHwudjnwuNRkC7PHutT_eG/view?usp=sharing)4
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19bA6swa9yUYHwudjnwuNRkC7PHutT_eG/view?usp=sharing)4
 
 - - LinkedIn at [Atul Kumar](https://www.linkedin.com/in/atul-kumar-a5a378238/)
 
